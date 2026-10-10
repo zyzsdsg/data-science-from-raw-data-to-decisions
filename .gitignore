@@ -5,3 +5,17 @@
 ._*
 .Spotlight-V100
 .Trashes
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+.ipynb_checkpoints/
+data/
